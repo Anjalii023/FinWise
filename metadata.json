@@ -1,0 +1,6 @@
+{
+  "name": "FinWise - Deterministic Financial Intelligence & RAG",
+  "description": "Personal financial analytics, hybrid RAG knowledge engine, what-if simulator, goal planner, and code-grounded decision assistant powered by Groq and verified computation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

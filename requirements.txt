@@ -1,0 +1,32 @@
+# ========================================================
+# FinWise Python Environment & Data Engineering Toolchain
+# For standalone financial data parsers, ML models & APIs
+# ========================================================
+
+# Web Framework & API Server (if using Python microservice)
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+# AI & LLM SDKs
+google-genai
+google-generativeai
+groq
+
+# Financial Document & Statement Ingestion
+pandas
+openpyxl
+xlrd
+pdfplumber
+pypdf
+
+# Database & Firebase Admin (for Python backend workers)
+firebase-admin
+google-cloud-firestore
+
+# HTTP & Utilities
+requests
+httpx    
+python-dateutil
+numpy
